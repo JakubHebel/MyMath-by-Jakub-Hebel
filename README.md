@@ -8,6 +8,7 @@ s - area of the triangle
 
 #### 2. Exponentiation - reutrns the result of exponentiation one number to the power of another
 double exponentiation(double a, double b)
+
 a - the base
 b - the exponent
 p - result of exponentiation
