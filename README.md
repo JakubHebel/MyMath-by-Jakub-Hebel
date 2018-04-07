@@ -23,5 +23,34 @@ p - result of exponentiation
 
 double factorial(double a)
 
-a - 
+a - given number
 
+s - factorial of given number
+
+#### 4. Divisibility - checks, whether one number is divisible by another
+
+int divisibility(int a, int b)
+
+a, b - numbers, of which we check divisibility
+
+d - the remainder of division
+
+if the remainder = 0, the numbers are divisible, if not, they aren't
+
+#### 5. Greatest common divisor (Euclidean) - returns greatest common divisor of 2 numbers
+
+int euclidean(int a, int b)
+
+a, b - numbers, from which we want to get greatest common divisor
+
+a (after the loop) - greatest common divisor
+
+#### 6*. BMI - returns your Body Mass Index and writes, whether your weight is too little, ok or too big
+
+double bodymass(double mass, double height)
+
+mass - your body mass in kg
+
+height - your height in cm
+
+bmi - your Body Mass Index
