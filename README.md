@@ -1,2 +1,5 @@
 # MyMath by Jakub Hebel
-### Zadanie domowe na 07.04.2018
+### Examples of using functions
+### 1. Heron
+#### double heron (double a, double b, double c)
+##### ints
