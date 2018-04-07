@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1523102945 source:c:\users\kuba\desktop\programowanie\my mathematics by jakub hebel\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"myVoids.h"
+
+1523055946 c:\users\kuba\desktop\programowanie\my mathematics by jakub hebel\myvoids.h
+
+1523124917 source:c:\users\kuba\desktop\programowanie\my mathematics by jakub hebel\mymath.cpp
+	<cmath>
+
+1523104085 source:c:\users\kuba\desktop\programowanie\my mathematics by jakub hebel\myvoids.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<windows.h>
+	"myMath.h"
+
+1523106942 c:\users\kuba\desktop\programowanie\my mathematics by jakub hebel\mymath.h
+
